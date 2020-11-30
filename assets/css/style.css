@@ -565,12 +565,11 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Breadcrumbs / inner pages: acerca,
+# Breadcrumbs / inner pages: acerca, servicios, curriculums (equipo)
 --------------------------------------------------------------*/
 /*---- PAU ---*/
 .btn-volver.active {
   color: #18d26e;
-  
 }
 
 .btn-volver{
@@ -614,6 +613,22 @@ section {
 .inner-page h3{
   color: #18d36e;
 }
+
+.mobile-nav .btn-volver {
+  display: block;
+  position: relative;
+  color: #333333;
+  padding: 10px 20px;
+  font-weight: 500;
+  outline: none;
+}
+
+.mobile-nav .btn-volver:hover, .mobile-nav .active.btn-volver, .mobile-nav li:hover > .btn-volver {
+  color: #18d26e;
+  text-decoration: none;
+}
+
+
 /*---- FIN PAU ---*/
 
 .breadcrumbs {
