@@ -1388,6 +1388,18 @@ section {
   border: solid 1px #ddd;
 }
 
+@media (max-width:700px){
+  .list-group-horizontal{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    border-radius: .25rem;
+  }
+}
+
 
 /* Team Section
 --------------------------------*/
