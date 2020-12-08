@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden;
   padding: 10px 0;
   background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  box-shadow: 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
 
@@ -778,7 +778,7 @@ section {
 #about .about-col {
   background: #fff;
   border-radius: 0 0 4px 4px;
-  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+  box-shadow: 2px 12px rgba(0, 0, 0, 0.08);
   margin-bottom: 20px;
 }
 
@@ -1064,12 +1064,12 @@ section {
 }
 
 #portfolio .portfolio-wrap {
-  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+  box-shadow: 2px 12px rgba(0, 0, 0, 0.08);
   transition: 0.3s;
 }
 
 #portfolio .portfolio-wrap:hover {
-  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.16);
+  box-shadow: 4px 14px rgba(0, 0, 0, 0.16);
 }
 
 #portfolio .portfolio-item {
@@ -1211,7 +1211,7 @@ section {
   right: 0;
   bottom: -70px;
   background: #fff;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 15px rgba(0, 0, 0, 0.1);
   z-index: 2;
 }
 
