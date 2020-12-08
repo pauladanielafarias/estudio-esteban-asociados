@@ -16,6 +16,8 @@
 
 <br>
 
+<!-- Hacer el Code Review del repositorio en https://www.codefactor.io/ -->
+
 ### :computer: Tecnologías utilizadas: <img align="center" alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/pauladanielafarias/estudio-esteban-asociados/master?&logo=codefactor&logoColor=green"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/pauladanielafarias/estudio-esteban-asociados">  <img align="center" alt="GitHub top language" src="https://img.shields.io/github/languages/top/pauladanielafarias/estudio-esteban-asociados">
 
 - **Front-end:** 
